@@ -15,7 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
 **Create class CustomePageRoutes and extend PageRouteBuilder to change the page.**
 
 import 'package:flutter/cupertino.dart';
@@ -70,3 +69,9 @@ class CustomePageRoutes extends PageRouteBuilder {
                 direction: AxisDirection.left,
               ),
             ),
+  
+  
+  
+Explore this.
+
+**https://docs.flutter.dev/development/ui/widgets/animation**
